@@ -59,3 +59,15 @@
 .backpack h4{
     color: rgb(18, 91, 201);
 }
+
+#subscribe{
+    height: 250px;
+}
+
+#subscribe h6{
+    color: gray;
+}
+
+footer {
+    text-align: center;
+}
