@@ -13,8 +13,8 @@
 .price{
     color: #ff136f;
 }
-.buy-now-buttin{
-    background-image: linear-gradient(to bottom, #1d987d 0%, #3b725b);
+.buy-now-button{
+    background-image: linear-gradient(180deg, #7da29a 0%, #18da89);
     color: white;
     border: none;
     border-radius: 5px;
@@ -44,4 +44,18 @@
 .card{
     border: none;
     box-shadow: 5px 5px 10px lightslategray;
+    border-radius: 10px;
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+.shoes h4{
+    color: rgb(18, 91, 201);
+}
+
+.backpack h4{
+    color: rgb(18, 91, 201);
 }
